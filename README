@@ -1,0 +1,16 @@
+(In the following the '$' in the beginning stands for the prompt at the commandline.)
+Ensure that the following packages are installed in the current system:
+0. python3
+1. numpy
+2. pandas
+3. pickle
+4. scipy
+
+1. Collaborative Filtering:
+$ python3 predict_CF.py
+
+2. SVD decomposition:
+$ python3 predict_SVD.py
+
+3. CUR decomposition:
+$ python3 predict_cur.py
